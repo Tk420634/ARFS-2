@@ -277,3 +277,27 @@
 	/obj/item/clothing/accessory/collar/pink = 4,/obj/item/clothing/accessory/collar/holo = 4,
 	/obj/item/clothing/under/stripper/stripper_pink = 4, /obj/item/clothing/under/stripper/stripper_green = 4,
 	/obj/item/clothing/under/stripper/mankini = 4)
+
+/obj/machinery/vending/thingpony/toy
+	name = "Toy Vendor"
+	desc = "A cute teddy bear! It can give you toys!"
+	product_ads = "Action figures!"
+	icon_state = "toy"
+	vend_reply = "Get to donk-ing!"
+	products = list(/obj/item/toy/plushie/corgi=5, /obj/item/toy/plushie/girly_corgi=5,
+	/obj/item/toy/plushie/robo_corgi=5, /obj/item/toy/plushie/octopus=5,
+	/obj/item/toy/plushie/face_hugger=5, /obj/item/toy/plushie/red_fox=5,
+	/obj/item/toy/plushie/black_fox=5, /obj/item/toy/plushie/marble_fox=5,
+	/obj/item/toy/plushie/blue_fox=5, /obj/item/toy/plushie/orange_fox=5,
+	/obj/item/toy/plushie/coffee_fox=5, /obj/item/toy/plushie/pink_fox=5,
+	/obj/item/toy/plushie/purple_fox=5, /obj/item/toy/plushie/crimson_fox=5,
+	/obj/item/toy/plushie/deer=5, /obj/item/toy/plushie/black_cat=5,
+	/obj/item/toy/plushie/grey_cat=5, /obj/item/toy/plushie/white_cat=5,
+	/obj/item/toy/plushie/orange_cat=5, /obj/item/toy/plushie/siamese_cat=5,
+	/obj/item/toy/plushie/tabby_cat=5, /obj/item/toy/plushie/tuxedo_cat=5,
+	/obj/item/toy/carpplushie/ice=5, /obj/item/toy/carpplushie/silent=5,
+	/obj/item/toy/carpplushie/electric=5, /obj/item/toy/carpplushie/gold=5,
+	/obj/item/toy/carpplushie/toxin=5, /obj/item/toy/carpplushie/dragon=5,
+	/obj/item/toy/carpplushie/pink=5, /obj/item/toy/carpplushie/candy=5,
+	/obj/item/toy/carpplushie/nebula=5, /obj/item/toy/carpplushie/void=5,
+	/obj/item/toy/plushie/rune=5)
