@@ -108,7 +108,7 @@
 	//Runeguden
 /obj/item/toy/plushie/rune
 	name = "Rune Plush"
-	desc = "A cute plushie of a small grey slime."
+	desc = "Everyone's adorable tiny slime.(Made by Rachel.co)."
 	icon = 'icons/obj/toy.dmi'
 	icon_state = "rune"
 	anchored = 0
