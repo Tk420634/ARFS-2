@@ -224,7 +224,7 @@ obj/item/weapon/fleshlight
 /obj/item/toy/plushie/toxin
 	icon_state = "toxincarp"
 	name = "toxic carp plushie"
-	
+
 /obj/item/toy/plushie/dragon
 	icon_state = "dragoncarp"
 	name = "dragon carp plushie"
@@ -244,3 +244,9 @@ obj/item/weapon/fleshlight
 /obj/item/toy/plushie/void
 	icon_state = "voidcarp"
 	name = "void carp plushie"
+
+/obj/item/weapon/melee/baton/stunsword
+	icon = 'code/dallus_content/icons/weapons_arf.dmi'
+	icon_state = "stunsword"
+	name = "stunsword"
+	desc = "The same technology as a classic stunbaton, in the shape of a sword!"
