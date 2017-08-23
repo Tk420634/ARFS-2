@@ -1,10 +1,10 @@
 /mob/living/simple_animal/hostile/shadowbeast
 	name = "Shadow Beast"
-	desc = "A living, writhing shadow. A mask flats before it, with bleeding eyes."
-	icon_state = "shadowling"
-	icon_living = "shadowling"
-	icon_dead = "shadowling_dead"
-	icon_gib = "carp_gib"
+	desc = "A living, writhing shadow. A mask floats before it, with bleeding eyes."
+	icon = 'code/dallus_content/icons/mob/shadowbeast.dmi'
+	icon_state = "shadowbeast"
+	icon_living = "shadowbeast"
+	icon_dead = "shadowbeast_dead"
 
 	faction = "carp"
 	maxHealth = 25
