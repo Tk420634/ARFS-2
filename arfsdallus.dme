@@ -193,6 +193,7 @@
 #include "code\dallus_content\items\gloves.dm"
 #include "code\dallus_content\items\hats.dm"
 #include "code\dallus_content\items\masks.dm"
+#include "code\dallus_content\items\miscitems.dm"
 #include "code\dallus_content\items\shoes.dm"
 #include "code\dallus_content\items\suits.dm"
 #include "code\dallus_content\items\ties.dm"
