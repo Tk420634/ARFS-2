@@ -2,7 +2,7 @@
 
 /mob/living/carbon/human/verb/suicide()
 	set hidden = 1
-
+	return
 	if (stat == DEAD)
 		src << "You're already dead!"
 		return
